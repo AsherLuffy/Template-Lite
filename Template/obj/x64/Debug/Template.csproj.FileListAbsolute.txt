@@ -1,0 +1,64 @@
+D:\repos\Reference\Template\Template\bin\x64\Debug\Template.exe.config
+D:\repos\Reference\Template\Template\bin\x64\Debug\Template.exe
+D:\repos\Reference\Template\Template\bin\x64\Debug\Template.pdb
+D:\repos\Reference\Template\Template\bin\x64\Debug\Newtonsoft.Json.dll
+D:\repos\Reference\Template\Template\bin\x64\Debug\Serilog.dll
+D:\repos\Reference\Template\Template\bin\x64\Debug\Serilog.Sinks.File.dll
+D:\repos\Reference\Template\Template\bin\x64\Debug\System.Buffers.dll
+D:\repos\Reference\Template\Template\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\repos\Reference\Template\Template\bin\x64\Debug\System.Memory.dll
+D:\repos\Reference\Template\Template\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\repos\Reference\Template\Template\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\repos\Reference\Template\Template\bin\x64\Debug\System.Threading.Channels.dll
+D:\repos\Reference\Template\Template\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\repos\Reference\Template\Template\bin\x64\Debug\Newtonsoft.Json.xml
+D:\repos\Reference\Template\Template\bin\x64\Debug\Serilog.xml
+D:\repos\Reference\Template\Template\bin\x64\Debug\Serilog.Sinks.File.xml
+D:\repos\Reference\Template\Template\bin\x64\Debug\System.Buffers.xml
+D:\repos\Reference\Template\Template\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\repos\Reference\Template\Template\bin\x64\Debug\System.Memory.xml
+D:\repos\Reference\Template\Template\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\repos\Reference\Template\Template\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\repos\Reference\Template\Template\bin\x64\Debug\System.Threading.Channels.xml
+D:\repos\Reference\Template\Template\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\repos\Reference\Template\Template\obj\x64\Debug\Template.csproj.AssemblyReference.cache
+D:\repos\Reference\Template\Template\obj\x64\Debug\Template.Template.resources
+D:\repos\Reference\Template\Template\obj\x64\Debug\Template.Properties.Resources.resources
+D:\repos\Reference\Template\Template\obj\x64\Debug\Template.csproj.GenerateResource.cache
+D:\repos\Reference\Template\Template\obj\x64\Debug\Template.csproj.CoreCompileInputs.cache
+D:\repos\Reference\Template\Template\obj\x64\Debug\Template.csproj.Up2Date
+D:\repos\Reference\Template\Template\obj\x64\Debug\Template.exe
+D:\repos\Reference\Template\Template\obj\x64\Debug\Template.pdb
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\Template.exe.config
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\Template.exe
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\Template.pdb
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\Newtonsoft.Json.dll
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\Serilog.dll
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\Serilog.Sinks.File.dll
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\System.Buffers.dll
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\System.Memory.dll
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\System.Threading.Channels.dll
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\Newtonsoft.Json.xml
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\Serilog.xml
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\Serilog.Sinks.File.xml
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\System.Buffers.xml
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\System.Memory.xml
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\System.Threading.Channels.xml
+D:\repos\Reference\Template Lite\Template\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\repos\Reference\Template Lite\Template\obj\x64\Debug\Template.csproj.AssemblyReference.cache
+D:\repos\Reference\Template Lite\Template\obj\x64\Debug\Template.exe.config
+D:\repos\Reference\Template Lite\Template\obj\x64\Debug\Template.Template.resources
+D:\repos\Reference\Template Lite\Template\obj\x64\Debug\Template.Properties.Resources.resources
+D:\repos\Reference\Template Lite\Template\obj\x64\Debug\Template.csproj.GenerateResource.cache
+D:\repos\Reference\Template Lite\Template\obj\x64\Debug\Template.csproj.CoreCompileInputs.cache
+D:\repos\Reference\Template Lite\Template\obj\x64\Debug\Template.csproj.Up2Date
+D:\repos\Reference\Template Lite\Template\obj\x64\Debug\Template.exe
+D:\repos\Reference\Template Lite\Template\obj\x64\Debug\Template.pdb
+D:\repos\Reference\Template\Template\obj\x64\Debug\Template.exe.config
